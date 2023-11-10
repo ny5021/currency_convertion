@@ -66,7 +66,7 @@ php artisan serve
 
 
 ## Parametre d'acces
-username : root
+username : root \\
 passeword : root
 
 ## Auteurs
