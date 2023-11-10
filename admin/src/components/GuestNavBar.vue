@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <v-app-bar title="Currency Converter" color="blue">
+    <v-app-bar title="Currency Converter" color="green">
 
     </v-app-bar>
 </template>

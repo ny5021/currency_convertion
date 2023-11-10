@@ -33,7 +33,7 @@ async function logout() {
 </script>
 
 <template>
-    <v-app-bar title="Currency Converter" color="blue">
+    <v-app-bar title="Currency Converter" color="green">
         <!-- Menu Mobile -->
       <v-menu v-if="isSmartPhone">
         <template v-slot:activator="{ props }">
